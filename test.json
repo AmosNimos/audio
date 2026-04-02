@@ -1,0 +1,17 @@
+{
+  "home": {
+    "user": {
+      "readme.txt": "Hello World!\nThis is a basic test file.\nUse commands to explore the filesystem.",
+      "notes.txt": "These are some quick notes.\nTry editing or reading this file with commands.",
+      "updates.log": "Update 01: Initial test filesystem created.\nUpdate 02: Added notes.txt file.",
+      ".config": {
+        "theme": {
+          "theme.cfg": "color: green\nbackground: black"
+        }
+      },
+      "scripts": {
+        "hello.sh": "echo 'Hello World from script!'"
+      }
+    }
+  }
+}
