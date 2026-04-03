@@ -1,5 +1,6 @@
 export const filesystem = {
   home: {
+    "readme.txt": "Hello World!"
     user: {
       "readme.txt": "Hello World!"
     },
